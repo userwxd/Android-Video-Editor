@@ -20,7 +20,7 @@
     android:layout_marginRight="40dp"
     android:onClick="takeCamera"
     android:textColor="@android:color/white"
-    android:text="拍摄"/>
+    android:text="录制"/>
 
   <Button
     android:id="@+id/btn_album"
@@ -32,6 +32,6 @@
     android:layout_marginRight="40dp"
     android:onClick="takeAlbum"
     android:textColor="@android:color/white"
-    android:text="相册"/>
+    android:text="视频"/>
 
 </LinearLayout>

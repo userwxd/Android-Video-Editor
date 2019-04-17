@@ -24,7 +24,7 @@ import java.util.List;
  * @Date 2018/8/21 15:16
  * @description 视频相册界面
  */
-public class VideoAlbumActivity extends BaseActivity implements VideoGridAdapter.OnItemClickListener {
+public class  VideoAlbumActivity extends BaseActivity implements VideoGridAdapter.OnItemClickListener {
 
     @BindView(R.id.recyclerView)
     RecyclerView mRecyclerView;
