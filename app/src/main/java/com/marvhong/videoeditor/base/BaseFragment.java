@@ -18,7 +18,7 @@ import io.reactivex.disposables.Disposable;
  * @description
  */
 public abstract class BaseFragment extends Fragment {
-
+    //王晓东
     protected View mRootView;
     private CompositeDisposable mDisposables = new CompositeDisposable();
 
